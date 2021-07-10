@@ -1,8 +1,6 @@
-# Read Me Template
+# Welcome to Guess My Number Game
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+![Guess my number](https://user-images.githubusercontent.com/85004364/125152499-95be6d00-e16a-11eb-9956-84fcb99367aa.png)
 
 ---
 
@@ -26,7 +24,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 - Technology 1
 - Technology 2
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#welcome-to-guess-my-number-game)
 
 ---
 
@@ -41,12 +39,12 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 ```html
     <p>dummy code</p>
 ```
-[Back To The Top](#read-me-template)
+[Back To The Top](#README)
 
 ---
 
 ## References
-[Back To The Top](#read-me-template)
+[Back To The Top](#README)
 
 ---
 
@@ -74,7 +72,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#README)
 
 ---
 
@@ -83,4 +81,4 @@ SOFTWARE.
 - Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
 - Website - [James Q Quick](https://jamesqquick.com)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#README)
